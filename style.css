@@ -1,3 +1,4 @@
+
 #tittle
 {
     background-color: #ccffbd;
@@ -13,6 +14,27 @@
 #contact
 {
     background-color: #1c1427;
+}
+.container-fluid
+{
+    margin: 0%;
+    padding: 0%;
+}
+#t1
+{
+    height: auto;
+    margin:0%;
+    padding: 5vh;
+    text-align: center;
+    font-family:cursive;
+    color: black;
+    border-style: solid;
+    border-color: black;
+}
+.centre
+{
+    font-family:cursive;
+    text-align: center;
 }
 #a1
 {
