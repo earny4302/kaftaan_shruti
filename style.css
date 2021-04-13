@@ -1,3 +1,11 @@
+#tittle
+{
+    background-color: #ccffbd;
+}
+#playlist
+{
+    background-color: #7eca9c;
+}
 #about
 {
     background-color: #40394a;
@@ -15,7 +23,16 @@
     font-family:cursive;
     color: aliceblue;
 }
+#a2
+{
+    
+    text-align: center;
+    align-content: center;
+    border-style: solid;
+    border-radius: 50%;
+    
 
+}
 #a3
 {
     height: auto;
